@@ -1,0 +1,36 @@
+/* .thema_title {text-align: left; width: 100%;display: inline-block;position: absolute;top:1px} */
+.thema_title {text-align: left; width: 100%;display: inline-block;position: absolute;top:1px}
+.main .main_img_wrap .main_skinimg{position: relative;}
+.main_txt .tit_name{width: 100%; display: inline-block; font-family: 'Pre-R'; font-size: 0.75rem; letter-spacing: 8px; margin-bottom: 20px;}
+.main .main_txt{padding: 40px 0 20px 0;}
+#pro_mode .main .main_txt p{border-bottom: none;}
+.main_txt .date{display: flex; justify-content: center; margin-bottom: 10px;}
+.main_txt .date .month{border-right: 1px solid #ccc; padding-right: 10px; font-size: 20px !important;}
+.main_txt .date .work{margin-left: 10px; font-size: 20px !important;}
+.main_txt .week{font-size: 15px !important; color: #767676;}
+
+
+#pro_mode .all_txt_wrap {margin-top: 35px;}
+#pro_mode .main .main_txt{padding-bottom: 20px}
+#pro_mode .main .main_txt p{margin-top: 0}
+#pro_mode .main .bottom_txt{padding-bottom: 20px;}
+#pro_mode .section_tit{color: #000}
+#pro_mode .interview_wrap .interview_inner .theme_tit{color: #000}
+#pro_mode .notice_inner .theme_tit{color: #000}
+/* */
+/* 색변경하기 */
+#pro_mode .call_wrap .call_box_btn p{background: #000}
+#pro_mode .tit_pink{color:#000 }
+#pro_mode .map_inner .map_detail{background:#000 }
+#pro_mode #kCalendar .weddingday{background: #000}
+#pro_mode .book_btn a{background: #000}
+#pro_mode .interview_wrap .interview_inner .inter_inner_wrap .open_interview{background: #000}
+#pro_mode .call_pop_down > p{background: #000}
+.b_date{color: #000}
+#pro_mode .account_box .account_tit{background:  #DFDFDF}
+#pro_mode .attend_inner .check_attend{background:  #DFDFDF}
+#pro_mode .profile_wrap .profile_inner .theme_tit{color: #000}
+#pro_mode .interview_wrap .interview_inner .inter_inner_wrap p.tit_question{margin-top: 30px;border-bottom: 1px solid #ededed;padding:30px 0; padding-bottom: 10px;}
+#pro_mode .interview_wrap .interview_inner .inter_inner_wrap p.tit_answer{padding:15px 0}
+
+#kCalendar #date{font-size: 17px;margin-bottom: 10px;display: inline-block;color: #575757;}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cafe24Simplehae';
+    src: url('/storefarm/card/font/Cafe24Simplehae.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{font-family: 'Cafe24Simplehae';}
